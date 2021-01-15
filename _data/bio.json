@@ -6,7 +6,7 @@
     "email": "nmoylan@hawaii.edu",
     "phone": "808-763-0869",
     "website": "https://natemoylan.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in Accounting and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.S. in Accounting and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "1881 Mahana St.",
       "postalCode": "96822",
@@ -41,7 +41,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Data Analytics",
       "level": "",
       "keywords": [
         "C",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Interpersonal Communication",
       "level": "",
       "keywords": [
         "MacOS",
@@ -67,10 +67,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Accounting and Management Information Systems (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2018-06-18",
+      "endDate": "2022-05-15",
       "gpa": "",
       "courses": [
       ]
