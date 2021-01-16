@@ -1,10 +1,10 @@
+---
 layout: essay
 type: essay
 title: MIS
-# All dates must be YYYY-MM-DD format!
 date: 2020-01-16
 labels:
-
+---
 
 Aloha, my name is Nate, and I am majoring in Accounting and Management Information Systems. Born and raised on a small island in the Pacific, Guam has been my home for many years. Growing up, I was taught the fundamentals and principles of having financial stability and the importance of understanding how the world is revolving around technology and information. When I first started out at the University of Hawaii at Manoa, I majored in Accounting but after a year of classes I realized that I wanted to be more involved with technology and how it coincides with business. At the end of my second year in college, I finally decided to double major in Accounting and Management Information Systems. 
 
