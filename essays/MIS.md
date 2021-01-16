@@ -3,7 +3,7 @@
 layout: essay
 type: essay
 title: MIS
-date: 2020-01-26
+date: 2020-01-16
 labels:
 ---
 
