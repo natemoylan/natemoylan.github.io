@@ -51,26 +51,20 @@
   ],
   "skills": [
     {
-      "name": "Data Analytics",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "CSS",
+        "Javescript",
       ]
     },
     {
-      "name": "Interpersonal Communication",
+      "name": "Mircosoft",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Word",
+        "Excel",
+        "Powerpoint",
       ]
     }
   ],
