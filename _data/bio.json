@@ -82,27 +82,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Bank of Guam",
+      "position": "Assistant to Accountant",
+      "website": "https://www.bankofguam.com/",
+      "startDate": "2019-02-23",
+      "endDate": "2019-08-15",
+      "summary": "Helped organize documents for Accountants",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Helped create and edit financial documents",
+        "Helped organize bookeeping processes of financial documents"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Call Center",
+      "position": "Student Telemarketer",
+      "website": "https://www.uhfoundation.org/about/departments/student-calling-center",
+      "startDate": "2018-02-26",
+      "endDate": "2019-08-12",
+      "summary": "Telemarketer",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Helped raised funds for campus functions",
+        "Helped raise money for scholarships and equiiptment for UH at Manoa"
       ]
     }
   ],
