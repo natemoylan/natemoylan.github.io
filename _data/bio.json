@@ -1,125 +1,130 @@
 {
-  "basics": {
-    "name": "Nathaniel Moylan",
-    "label": "Shidler Undergraduate",
-    "picture": "https://natemoylan.github.io/images/MIS.jpeg",
-    "email": "nmoylan@hawaii.edu",
-    "phone": "808-763-0869",
-    "website": "https://natemoylan.github.io",
-    "summary": "I am studying for a B.S. in Accounting and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "1881 Mahana St.",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Nathaniel Moylan",
+      "label":"Shidler Undergraduate",
+      "picture":"https://natemoylan.github.io/images/MIS.jpeg",
+      "email":"nmoylan@hawaii.edu",
+      "phone":"808-763-0869",
+      "website":"https://natemoylan.github.io",
+      "summary":"I am studying for a B.S. in Accounting and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"1881 Mahana St.",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"natemoylan",
+            "url":"http://github.com/natemoylan"
+         },
+         {
+            "network":"linkedin",
+            "username":"natemoylan",
+            "url":"http://linkedin.com/in/natemoylan"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "natemoylan",
-        "url": "http://github.com/natemoylan"
+         "name":"Data Information",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "natemoylan",
-        "url": "http://linkedin.com/in/natemoylan"
+         "name":"Music",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Volleyball",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Accounting",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Data Information",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Music",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Volleyball",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Accounting",
-      "keywords": [
-      ] 
-    }  
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "CSS",
-        "Javescript",
-      ]
-    },
-    {
-      "name": "Mircosoft",
-      "level": "",
-      "keywords": [
-        "Word",
-        "Excel",
-        "Powerpoint",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting and Management Information Systems (expected Spring, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2018-06-18",
-      "endDate": "2022-05-15",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Bank of Guam",
-      "position": "Assistant to Accountant",
-      "website": "https://www.bankofguam.com/",
-      "startDate": "2019-02-23",
-      "endDate": "2019-08-15",
-      "summary": "Helped organize documents for Accountants",
-      "highlights": [
-        "Helped create and edit financial documents",
-        "Helped organize bookeeping processes of financial documents"
-      ]
-    },
-    {
-      "company": "UH Call Center",
-      "position": "Student Telemarketer",
-      "website": "https://www.uhfoundation.org/about/departments/student-calling-center",
-      "startDate": "2018-02-26",
-      "endDate": "2019-08-12",
-      "summary": "Telemarketer",
-      "highlights": [
-        "Helped raised funds for campus functions",
-        "Helped raise money for scholarships and equiiptment for UH at Manoa"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "Fall 2018",
-    },
-    {
-      "title": "Dean's List",
-      "date": "Fall 2020",
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "level":"",
+         "keywords":[
+            "CSS",
+            "Javescript"
+         ]
+      },
+      {
+         "name":"Mircosoft",
+         "level":"",
+         "keywords":[
+            "Word",
+            "Excel",
+            "Powerpoint"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Accounting and Management Information Systems (expected Spring, 2022)",
+         "studyType":"B.S.",
+         "startDate":"2018-06-18",
+         "endDate":"2022-05-15",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Bank of Guam",
+         "position":"Assistant to Accountant",
+         "website":"https://www.bankofguam.com/",
+         "startDate":"2019-02-23",
+         "endDate":"2019-08-15",
+         "summary":"Helped organize documents for Accountants",
+         "highlights":[
+            "Helped create and edit financial documents",
+            "Helped organize bookeeping processes of financial documents"
+         ]
+      },
+      {
+         "company":"UH Call Center",
+         "position":"Student Telemarketer",
+         "website":"https://www.uhfoundation.org/about/departments/student-calling-center",
+         "startDate":"2018-02-26",
+         "endDate":"2019-08-12",
+         "summary":"Telemarketer",
+         "highlights":[
+            "Helped raised funds for campus functions",
+            "Helped raise money for scholarships and equiiptment for UH at Manoa"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Dean's List",
+         "date":"Fall 2018"
+      },
+      {
+         "title":"Dean's List",
+         "date":"Fall 2020"
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
