@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: EI: UI Basics Technology Essay
+title: EI UI Basics Technology Essay
 date: 2020-02-01
 labels:
 ---
